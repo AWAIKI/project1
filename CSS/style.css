@@ -323,7 +323,7 @@ body{
     display: inline;
     position: absolute;
     top: -35px;
-    left: 55px;
+    left: 35px;
 }
 .item-fourth p{
     width: 90%;
@@ -331,12 +331,13 @@ body{
     color: grey;
     position: absolute;
     top: 125px;
-    left: 55px;
+    left: 35px;
 }
 .item-fourth i{
-    font-size: 30px;
+    font-size: 25px;
     color: blue;
     position: absolute;
+    left: 0px;
 }
 .item-fourth::after{
     position: absolute;
